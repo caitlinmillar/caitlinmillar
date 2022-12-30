@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Caitlin-millar@outlook.com**
 
-- ⚡ Fun fact **I have a pet snake named Nagini**
+- ⚡ Fun fact **I don't come from a tech background**
 
 
 
