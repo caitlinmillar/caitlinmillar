@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Caitlin-millar@outlook.com**
 
-- ⚡ Fun fact **I don't come from a tech background**
+- ⚡ Fun fact: **I don't come from a tech background**
 
 
 
