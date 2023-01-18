@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caitlin Millar</h1>
 <h3 align="center">A graduate on the BNTA bootcamp for software engineering. I'm passionate about back-end software development.</h3>
 
-- 🌱 I’m currently learning **Java, Spring and SQL**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 📫 How to reach me **Caitlin-millar@outlook.com**
 
