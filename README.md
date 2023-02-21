@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Caitlin Millar</h1>
-<h3 align="center">A graduate on the BNTA bootcamp for software engineering. I'm passionate about back-end software development.</h3>
+<h1 align="center">Caitlin Millar</h1>
+<h3 align="center">Hi 👋, I'm a Software Engineering Associate for Lloyd's Banking Group and Bright Network.</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **Caitlin-millar@outlook.com**
+- 📩 How to reach me **Caitlin-millar@outlook.com**
+
+- 📫 Linked in **https://www.linkedin.com/in/caitlin-millar-284023141/**
 
 - ⚡ Fun fact: **I don't come from a tech background**
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=caitlinmillar&show_icons=true&theme=light#gh-light-mode-only)
+![](https://raw.githubusercontent.com/caitlinmillar/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 <p align="left">
 </p>
