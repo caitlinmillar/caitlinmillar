@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: **I don't come from a tech background**
 </samp>
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="centre" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=caitlinmillar&show_icons=true&theme=tokyonight#gh-light-mode-only&title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite")
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caitlinmillar&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave) 
