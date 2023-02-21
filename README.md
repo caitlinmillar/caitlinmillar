@@ -1,14 +1,19 @@
+
 <h1 align="center">Caitlin Millar</h1>
 <h3 align="center">Hi 👋, I'm a Software Engineering Associate for Lloyd's Banking Group and Bright Network.</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 📩 How to reach me **Caitlin-millar@outlook.com**
-
-- 📫 Linked in **https://www.linkedin.com/in/caitlin-millar-284023141/**
+- 📩 Contact me at **caitlin-millar@outlook.com**
 
 - ⚡ Fun fact: **I don't come from a tech background**
 
+<img align="right" src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA/gify.gif" />
+
+<img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" alt="image description" width="200" height="200"> 
+<img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+
+<a href="https://www.linkedin.com/in/caitlin-millar-284023141/"><img src="https://img.shields.io/badge/-@caitlin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/caitlin-millar/" alt="LinkedIn Badge"></a> 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=caitlinmillar&show_icons=true&theme=light#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/caitlinmillar/github-stats-transparent/output/generated/overview.svg)
