@@ -12,6 +12,7 @@
 
 <a href="https://www.linkedin.com/in/caitlin-millar-284023141/"><img src="https://img.shields.io/badge/-@caitlin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/caitlin-millar/" alt="LinkedIn Badge"></a> 
 <hr></hr>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=caitlinmillar&show_icons=true&theme=light#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/caitlinmillar/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
