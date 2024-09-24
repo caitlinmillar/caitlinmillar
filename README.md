@@ -2,7 +2,7 @@
 <h1 align="center">Caitlin Millar</h1>
 <h3 align="center">Hi 👋 I'm a Software Engineering Associate for Lloyd's Banking Group and Bright Network.</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **GCP**
 
 - 📩 Contact me at **caitlin-millar@outlook.com**
 
